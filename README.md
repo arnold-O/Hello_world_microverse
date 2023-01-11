@@ -129,8 +129,8 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  - cd my-folder
-  - git clone git@github.com:myaccount/my-project.git
+  - cd my-project
+  - git clone https://github.com/arnold-O/Hello_world_microverse.git
 
 
 ### Install
@@ -138,9 +138,8 @@ Clone this repository to your desired folder:
 Install this project with:
 
 
-  - cd my-project
-  - git clone https://github.com/arnold-O/Hello_world_microverse.git
-
+- cd my-project
+- npm install
 
 ### Usage
 
@@ -196,9 +195,9 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> If you like this project kindly reach out in support
 
-If you like this project kindly reach out in support
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
