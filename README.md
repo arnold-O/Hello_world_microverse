@@ -173,7 +173,7 @@ To the team at microverse for a well structured program, i say a big Thank You.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is (MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
